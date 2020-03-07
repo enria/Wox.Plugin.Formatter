@@ -1,0 +1,12 @@
+{
+    "ID": "F40FE58EC10B46FDB0BE885BB2C3AC1A",
+    "ActionKeyword": "fmt",
+    "Name": "Formatter",
+    "Description": "格式化剪切板内容，支持JSON、XML、SQL以及多种常用格式化方式",
+    "Author": "zhangyd",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/enria/Wox.Plugin.Formatter",
+    "IcoPath": "Images\\AppIcon.png",
+    "ExecuteFileName": "Wox.Plugin.Formatter.dll"
+}
