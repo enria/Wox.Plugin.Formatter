@@ -58,4 +58,4 @@
 
 ## 安装
 
-下载压缩包，解压放到Wox的插件目录，重启Wox。
+下载[压缩包](https://github.com/enria/Wox.Plugin.Formatter/releases)，解压放到Wox的插件目录，重启Wox。
