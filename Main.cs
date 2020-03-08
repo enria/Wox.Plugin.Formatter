@@ -40,7 +40,7 @@ namespace Formatter {
         }
 
         public string tobs64(string text) {
-            return text.Replace("\\", "\\\\").Replace("`", "\\`");
+            return text.Replace("\\", "\\\\").Replace("`", "\\`").Replace("$", "\\$");
         }
 
         public string abbr(string text) {
